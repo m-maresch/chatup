@@ -10,7 +10,7 @@ Thanks to everyone contributing to any of the following projects:
 - SignalR
 - AutoMapper
 - Rx.NET
-- FluentAssertions
+- Fluent Assertions
 - xUnit.net
 - Autofac
 - FluentValidation
@@ -18,7 +18,7 @@ Thanks to everyone contributing to any of the following projects:
 - MassTransit
 - Npgsql
 - Polly
-- Java WebSockets
+- Java-WebSocket
 - OkHttp
 - Gson
 - JSON-Java (org.json)
