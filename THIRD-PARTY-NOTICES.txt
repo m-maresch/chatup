@@ -96,7 +96,6 @@ Unless otherwise noted, the source code here is covered by the following license
 
 7) License Notice for Autofac
 ---------------------------
-
 The MIT License (MIT)
 
 Copyright © 2014 Autofac Project
