@@ -5,7 +5,7 @@ If you have any questions about the application or you'd like to know how to bui
 
 # Dependencies
 Thanks to everyone contributing to any of the following projects:
-- ASP.NET Core
+- ASP.NET Core (and every project included in Microsoft.AspNetCore.All)
 - Entity Framework Core
 - SignalR
 - AutoMapper
