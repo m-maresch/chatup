@@ -18,6 +18,7 @@ Thanks to everyone contributing to any of the following projects:
 - MassTransit
 - Npgsql
 - Polly
+- Newtonsoft.Json
 - Java-WebSocket
 - OkHttp
 - Gson
